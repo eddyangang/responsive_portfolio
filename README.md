@@ -15,13 +15,6 @@ To mimic an existing webpage and include media breakpoints to improve User Inter
 | 980px     | <img src="assets/img/980-index.jpg" alt="980-index" style="width:240px; height: 450px;"/> | <img src="assets/img/980-portfolio.jpg" alt="980-portfolio" style="width:240px; height: 450px;"/> | <img src="assets/img/980-contact.jpg" alt="980-contact" style="width:240px; height: 450px;"/> |
 
 
-
-980px
-***
-<img src="assets/img/980-index.jpg" alt="980-index" style="width:240px; height: 450px;"/>
-<img src="assets/img/980-portfolio.jpg" alt="980-portfolio" style="width:240px; height: 450px;"/>
-<img src="assets/img/980-contact.jpg" alt="980-contact" style="width:240px; height: 450px;"/>
-
 ## Preview
 Visit the live live webpage [here](https://eddyangang.github.io/responsive_portfolio/).
 
